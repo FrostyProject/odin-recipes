@@ -1,0 +1,1 @@
+This is the first of many projects as a part of The Odin Project's curriculum. This is a basic recipe website and will showcase the web development basics i have learned so far. 
